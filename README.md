@@ -20,6 +20,6 @@
   <li>4-3. reducers 안에서 작동 할 함수를 만들면 됨</li>
   <li>4-3-1. 함수명: () => {} 화살표 함수나, 함수명() {} 이런 식으로도 가능</li>
   <li>4-4. 사용할 작동할 함수들을 export로 지정해줌. ex) export const { 기능, 기능 } = counterSlice.action </li>
-  <li>4-5. 스토어에서 initial에 접근하기 위해 export default counterSlice.reducer를 보냄</li>
+  <li>4-5. 스토어에서 initialState에 접근하기 위해 export default countSlice.reducer 해야함</li>
 </ul>
 <div><img width="802" alt="image" src="https://github.com/jumpjoong/react-redux-test/assets/100519998/600586e4-9d6d-48f2-ba9b-61aa0f80eea4"></div>
