@@ -23,3 +23,12 @@
   <li>4-5. 스토어에서 initialState에 접근하기 위해 export default countSlice.reducer 해야함</li>
 </ul>
 <div><img width="802" alt="image" src="https://github.com/jumpjoong/react-redux-test/assets/100519998/600586e4-9d6d-48f2-ba9b-61aa0f80eea4"></div>
+</br>
+<ul>
+  <h3>5. 사용방법</h3>
+  <li>5-1. 변수에 useSelector를 사용해서 사용할 값에 접근</li>
+  <li>5-2. dispatch를 사용해서 4-4에 적힌 함수들을 사용</li>
+  <div><img width="595" alt="image" src="https://github.com/jumpjoong/react-redux-test/assets/100519998/eae28a56-4398-44c6-9493-23ceb9c1d7c7">
+</div>
+</ul>
+
